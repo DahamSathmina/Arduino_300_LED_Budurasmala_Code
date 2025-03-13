@@ -9,8 +9,7 @@ This project utilizes an Arduino to control 300 WS2812 individually addressable 
 - **SD Card Integration**: Reads predefined lighting patterns from `matrix.dat`.
 - **Adjustable Brightness**: Dynamically controls brightness for different environments.
 - **Scalability & Compatibility**: Supports multiple Arduino boards (Uno, Mega, etc.).
-- **Potential for Expansion**: Easily extendable with Bluetooth or WiFi control.
-
+  
 ## Hardware Requirements
 - **Microcontroller**: Arduino Uno, Mega, or compatible board
 - **LED Strip**: WS2812 (300 LEDs or configurable length)
